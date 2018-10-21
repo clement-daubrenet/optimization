@@ -11,8 +11,9 @@ Warning: because we use f-strings, it is required to use python 3.6 at least
 
 ## Run the code
 
+Pick one question directory:
+
 - cd question_1
-or
 - cd question_2
 
 and then just go:
@@ -22,8 +23,9 @@ and then just go:
 
 ## Run tests:
 
+Pick one question directory:
+
 - cd question_1
-or
 - cd question_2
 
 and then just go:
